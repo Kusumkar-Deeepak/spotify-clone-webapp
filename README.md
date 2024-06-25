@@ -13,7 +13,7 @@ This repository contains a simple Spotify clone web application created using HT
 - [Contact](#contact)
 
 ## Demo
-You can view a live demo of the Spotify Clone Webapp [here](#https://spotifyy-webapp-clone.netlify.app/).
+You can view a live demo of the Spotify Clone Webapp [here](https://spotifyy-webapp-clone.netlify.app/).
 
 ## Features
 - Responsive design that mimics the Spotify web player
